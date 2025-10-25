@@ -1,17 +1,17 @@
 # -1037-Embedded-iot-project
 This repository contains all my ESP32-based lab exercises and home tasks completed during the Embedded IoT Systems (Fall 2025) course at National Textile University, Faisalabad.
 
-Author
+Author:
 Name: Hiba Fatima
 Registration #: 23-NTU-CS-FL-1037
 Program: BS Computer Science (Batch 2023–2027)
 University: National Textile University, Faisalabad
 
-Repository Overview
+Repository Overview:
 This repository serves as a structured collection of ESP32 practical experiments that progressively build from basic to advanced IoT concepts.
 Each folder represents one lab or home task focused on different peripherals, sensors, and real-world interfacing techniques.
 
-Purpose
+Purpose:
 The goal of this repository is to:
 
 Demonstrate understanding of embedded systems programming using the ESP32 microcontroller.
@@ -28,7 +28,7 @@ LDR Sensor	Measures ambient light intensity
 OLED Display (SSD1306)	Displays sensor readings and text-based output
 Arduino IDE	Used for coding, compiling, and uploading firmware
 Directory Structure
-Folder	Description
+Folder	Description:
 Week 4 Hometask Display Name, Emojis and Logo	Displays graphics and text on OLED
 Week 4 Simple Timer & LED Display	Shows use of timers to control LEDs
 Week 5 PWM-Based LEDs and Buzzer	Demonstrates PWM-based brightness and tone control
